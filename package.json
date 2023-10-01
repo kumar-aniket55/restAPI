@@ -6,10 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumar-aniket55/restAPI.git"
+  },
   "author": "Aniket",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumar-aniket55/restAPI/issues"
+  },
+  "homepage": "https://github.com/kumar-aniket55/restAPI#readme",
   "dependencies": {
-    "express": "^4.18.2",
-    "nodemon": "^3.0.1"
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
   }
 }
