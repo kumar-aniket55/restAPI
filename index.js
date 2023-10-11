@@ -6,7 +6,7 @@ const product = [
     {
         "id": "flowerkey",
         "name": "Aesthetic keychains",
-        "company": "keys",
+        "company": "KeyWorld.PVT",
         "price": 20000,
         "colors": [
         ],
@@ -60,7 +60,7 @@ const product = [
     {
         "id": "leafkey",
         "name": "Floral keychain",
-        "company": "keys",
+        "company": "KeyWorld.PVT",
         "price": 30000,
         "colors": [
         ],
@@ -113,7 +113,7 @@ const product = [
     {
         "id": "letterkey",
         "name": "Initial keychain",
-        "company": "keys",
+        "company": "KeyWorld.PVT",
         "price": 40000,
         "colors": [
         ],
@@ -166,7 +166,7 @@ const product = [
     {
         "id": "pinkkey",
         "name": "Pink Heart keychain",
-        "company": "keys",
+        "company": "KeyWorld.PVT",
         "price": 50000,
         "colors": [
         ],
@@ -219,7 +219,7 @@ const product = [
     {
         "id": "namekey",
         "name": "Name keychain",
-        "company": "keys",
+        "company": "KeyWorld.PVT",
         "price": 45000,
         "colors": [
         ],
@@ -272,7 +272,7 @@ const product = [
     {
         "id": "bluepen",
         "name": "Cool stud pendant!!",
-        "company": "pendants",
+        "company": "PendantUni.PVT",
         "price": 35000,
         "colors": [
         ],
@@ -325,7 +325,7 @@ const product = [
     {
         "id": "ovalpen",
         "name": "Flora Dora",
-        "company": "pendants",
+        "company": "PendantUni.PVT",
         "price": 25000,
         "colors": [
         ],
@@ -379,7 +379,7 @@ const product = [
     {
         "id": "leafpen",
         "name": "Leaf Pendant",
-        "company": "pendants",
+        "company": "PendantUni.PVT",
         "price": 55000,
         "colors": [
         ],
@@ -432,7 +432,7 @@ const product = [
     {
         "id": "petalpen",
         "name": "Petal Pendant",
-        "company": "pendants",
+        "company": "PendantUni.PVT",
         "price": 45000,
         "colors": [
         ],
@@ -485,7 +485,7 @@ const product = [
     {
         "id": "ringpen",
         "name": "Ring Pendant",
-        "company": "pendants",
+        "company": "PendantUni.PVT",
         "price": 35000,
         "colors": [
         ],
@@ -538,7 +538,7 @@ const product = [
     {
         "id": "yellowpen",
         "name": "Yellow Pendant",
-        "company": "pendants",
+        "company": "PendantUni.PVT",
         "price": 40000,
         "colors": [
         ],
@@ -591,7 +591,7 @@ const product = [
     {
         "id": "transmug",
         "name": "Transparent Mug Coaster",
-        "company": "Coasters",
+        "company": "CoasterMug.PVT",
         "price": 34000,
         "colors": [
         ],
@@ -645,7 +645,7 @@ const product = [
     {
         "id": "bluemug",
         "name": "Blue Mug Coaster",
-        "company": "Coasters",
+        "company": "CoasterMug.PVT",
         "price": 44000,
         "colors": [
         ],
@@ -699,7 +699,7 @@ const product = [
     {
         "id": "brownmug",
         "name": "Brown Mug Coaster",
-        "company": "Coasters",
+        "company": "CoasterMug.PVT",
         "price": 37000,
         "colors": [
         ],
@@ -749,8 +749,6 @@ const product = [
             }
         ]
     }
-
-
 ];
 
 app.use(cors());
